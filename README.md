@@ -7,10 +7,10 @@
 > Implement Approximate Inference, including rejection sampling and Gibbs sampling, and estimate Convergence and Accuracy.  
 
 ## Usage
-BayesianNetwork.py: Class of Bayesian Network  
-ExactInference.py: Functions of generate exact probability of Bayesian Network  
-ApproximateInference.py: Class of sample, including rejection sampling and gibbs sampling methods  
-evaluation.py/ipynb: Methods and analysis of convergence and accuracy of two sampling implemented on two networks
+- BayesianNetwork.py: Class of Bayesian Network  
+- ExactInference.py: Functions of generate exact probability of Bayesian Network  
+- ApproximateInference.py: Class of sample, including rejection sampling and gibbs sampling methods  
+- evaluation.py/ipynb: Methods and analysis of convergence and accuracy of two sampling implemented on two networks
 
 
 Run the program：
