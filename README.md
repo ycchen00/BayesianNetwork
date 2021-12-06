@@ -2,14 +2,14 @@
 <p>
 </p>
 
-> Design and build your own Bayesian Network for causal and diagnostic reasoning.
-> Implement Exact Inference and Sanity Checks.
-> Implement Approximate Inference, including rejection sampling and Gibbs sampling, and estimate Convergence and Accuracy.
+> Design and build your own Bayesian Network for causal and diagnostic reasoning.  
+> Implement Exact Inference and Sanity Checks.  
+> Implement Approximate Inference, including rejection sampling and Gibbs sampling, and estimate Convergence and Accuracy.  
 
 ## Usage
-BayesianNetwork.py: Class of Bayesian Network
-ExactInference.py: Functions of generate exact probability of Bayesian Network
-ApproximateInference.py: Class of sample, including rejection sampling and gibbs sampling methods
+BayesianNetwork.py: Class of Bayesian Network  
+ExactInference.py: Functions of generate exact probability of Bayesian Network  
+ApproximateInference.py: Class of sample, including rejection sampling and gibbs sampling methods  
 evaluation.py/ipynb: Methods and analysis of convergence and accuracy of two sampling implemented on two networks
 
 
